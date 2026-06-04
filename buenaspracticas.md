@@ -329,4 +329,6 @@ export async function getServices() { ... }
 
 Este apartado tuvo el fin de explicar las buenas y malas practicas de todo lo q se uso para crear el frotend, es claro recalcar que nos guiamos con la IA para prueba y errores de lo hecho por cada uno de los estudiantes, se usaron redes como youtube, google academico y otras más para guiarnos en codigos o metodos que no sabiamos pero que fueron mas practicos a la hora de crear la pagina.
 
+https://frontend-3-beta.vercel.app/
+
 *Este documento se actualizo constantemente cada q el equipo tenia una nueva idea o un nuevo metodo para agregar y llegamos como fin a este resultado...*
